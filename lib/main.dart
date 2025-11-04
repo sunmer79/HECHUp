@@ -41,6 +41,7 @@ class TeamHomePage extends StatelessWidget {
             SizedBox(height: 20),
             // 👉 여기 아래에 각자 한 줄씩 추가하면 됩니다!
             Text('안녕하세요! 저는 Summer 입니다 😎'),
+            Text('summer 브랜치 연습 😎'),
             // 예시:
             // Text( );
           ],
